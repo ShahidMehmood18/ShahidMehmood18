@@ -3,14 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<!-- Mobile-friendly static tagline -->
-<h2 align="center">
-  Senior Full-Stack Engineer | PHP • Laravel • JavaScript
-</h2>
-
-<!-- Desktop animated tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Senior+Software+Engineer;Full+Stack+Web+Developer;PHP+%7C+Laravel+%7C+WordPress+Expert;JavaScript+(Frontend+%26+Backend);Node.js+%7C+Express;Agentic+AI+%26+Workflow+Automation;5%2B+Years+of+Production+Experience">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Senior+Software+Engineer;Full+Stack+Web+Developer;PHP+%7C+Laravel+%7C+WordPress+Expert;JavaScript+(Frontend+%26+Backend);Node.js+%7C+Express+%7C+Modern+JS+Frameworks;Agentic+AI+Tools+%26+Workflow+Automation;5%2B+Years+of+Production+Experience">
+  </a>
 </p>
 
 <p align="center">
@@ -21,9 +17,9 @@
 
 ## 🧠 Short Summary
 
-🚀 Senior Software Engineer with **5+ years of hands-on experience** delivering and leading full-stack web applications.  
+🚀 Senior Software Engineer with **5+ years of hands-on experience** leading and delivering full-stack web applications.  
 🧩 Strong focus on **technology innovation, scalability, and long-term maintainability**.  
-👥 Proven ability to **mentor engineers, enforce best practices, and own systems end-to-end**.  
+👥 Proven ability to **mentor developers, enforce best practices, and drive solutions** from idea to production.  
 ⚡ Experienced in **Agentic AI tools, workflow automation, and AI-assisted development**.  
 🤝 Comfortable working in **Agile teams, startups, and enterprise environments**.
 
@@ -32,19 +28,18 @@
 ## 👨‍💻 About Me
 
 <picture>
-  <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="240">
+  <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250">
 </picture>
 
-<ul align="left">
-  <li>🧑‍💼 Senior Software Engineer – Full Stack Web Development</li>
-  <li>🧩 Expert in PHP, Laravel, WordPress & JavaScript ecosystems</li>
-  <li>⚙️ Strong grip on MVC Architecture, REST APIs & database optimization</li>
-  <li>🏗️ Experienced with ERP, CRM, SaaS & business automation systems</li>
-  <li>🧠 Advocate of SOLID principles & OOP best practices</li>
-  <li>🚀 Passionate about clean code, performance & scalability</li>
-  <li>🤝 Comfortable working with startups & enterprise teams</li>
-  <li>🌍 Open to remote & on-site opportunities</li>
-</ul>
+- 🧑‍💼 Senior Software Engineer – Full Stack Web Development  
+- 🧩 Expert in **PHP, Laravel, WordPress & JavaScript** ecosystems  
+- ⚙️ Strong grip on **MVC Architecture, REST APIs & Database Optimization**  
+- 🏗️ Experienced with **ERP, CRM, SaaS & Business Automation Systems**  
+- 🧠 Advocate of **SOLID Principles & Object-Oriented Programming (OOP) best practices**  
+- 🚀 Passionate about **clean code, performance & scalability**  
+- 🤝 Comfortable working with **clients, startups & enterprise teams**  
+- 📈 Continuously learning new technologies & improving engineering practices  
+- 🌍 Open to **remote & on-site opportunities**
 
 ---
 
@@ -61,8 +56,11 @@
   <img height="42" src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white"/>
 </p>
 
-<strong>Laravel Expertise:</strong>  
-Eloquent ORM • Query Builder • Redis • Queues • Jobs • Events • Performance Optimization
+**Laravel Expertise Includes**
+- Eloquent ORM & Query Builder  
+- Redis Caching & Queues  
+- Jobs, Events & Background Workers  
+- API Authentication & Performance Optimization  
 
 ---
 
@@ -78,7 +76,7 @@ Eloquent ORM • Query Builder • Redis • Queues • Jobs • Events • Perf
   <img height="42" src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white"/>
 </p>
 
-<strong>Libraries:</strong> Axios • jQuery • AJAX • Vite • NPM
+**Popular Libraries:** Axios, jQuery, AJAX, Vite, NPM  
 
 ---
 
@@ -109,22 +107,21 @@ Eloquent ORM • Query Builder • Redis • Queues • Jobs • Events • Perf
 
 ## 🤖 Agentic AI & Automation Experience
 
-<ul align="left">
-  <li>🧠 AI agents for code assistance, debugging & architectural decisions</li>
-  <li>⚙️ Workflow automation using modern AI tools</li>
-  <li>📄 AI-assisted documentation, refactoring & test generation</li>
-  <li>🔍 AI-powered requirement analysis & solution ideation</li>
-</ul>
+- 🧠 AI agents for code assistance, debugging & architectural decisions  
+- ⚙️ Workflow automation using modern AI tools  
+- 📄 AI-assisted documentation, refactoring & test generation  
+- 🔍 AI-powered requirement analysis & solution ideation  
 
 ---
 
 ## 🤝 Soft Skills
 
-- Leadership & ownership mindset  
-- Clear technical communication  
-- Agile & Scrum collaboration  
-- Client-facing problem solving  
-- Mentoring & documentation  
+- 🗣️ Strong communication & leadership  
+- 🧠 Problem-solving mindset  
+- 📋 Agile & Scrum experience  
+- 🎯 Client requirement analysis  
+- 🚀 Ownership & delivery focus  
+- 📚 Documentation & mentoring  
 
 ---
 
