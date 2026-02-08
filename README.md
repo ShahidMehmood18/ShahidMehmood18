@@ -19,7 +19,7 @@
 
 🚀 Senior Software Engineer with **5+ years of hands-on experience** leading and delivering full-stack web applications.  
 🧩 Strong focus on **technology innovation, scalability, and long-term maintainability**.  
-👥 Proven ability to **mentor developers, take ownership, and drive solutions** from idea to production.  
+👥 Proven ability to **mentor developers, enforce best practices, and drive solutions** from idea to production.  
 ⚡ Experienced in **Agentic AI tools, workflow automation, and AI-assisted development**.  
 🤝 Comfortable working in **Agile teams, startups, and enterprise environments**.
 
@@ -35,6 +35,7 @@
 - 🧩 Expert in **PHP, Laravel, WordPress & JavaScript** ecosystems  
 - ⚙️ Strong grip on **MVC Architecture, REST APIs & Database Optimization**  
 - 🏗️ Experienced with **ERP, CRM, SaaS & Business Automation Systems**  
+- 🧠 Advocate of **SOLID Principles & Object-Oriented Programming (OOP) best practices**  
 - 🚀 Passionate about **clean code, performance & scalability**  
 - 🤝 Comfortable working with **clients, startups & enterprise teams**  
 - 📈 Continuously learning new technologies & improving engineering practices  
@@ -85,6 +86,7 @@
   <img height="42" src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white"/>
   <img height="42" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white"/>
   <img height="42" src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white"/>
+  <img height="42" src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white"/>
   <img height="42" src="https://img.shields.io/badge/REST_API-0ea5e9?style=plastic"/>
   <img height="42" src="https://img.shields.io/badge/MVC_Architecture-6366F1?style=plastic"/>
 </p>
@@ -131,6 +133,9 @@
   </a>
   <a href="https://www.linkedin.com/in/shahidmehmood1828">
     <img height="35" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/923134143242">
+    <img height="35" src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
